@@ -42,14 +42,13 @@
 
 ### 🧰 Tech & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Ableton%20Live-black?style=flat&logo=abletonlive&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/-Clip%20Studio%20Paint-000000?style=flat&logo=clipstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ableton%20Live-000000?style=flat&logo=abletonlive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lightroom-001E36?style=flat&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
 ---
