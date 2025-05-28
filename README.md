@@ -19,12 +19,12 @@
 - Transcription and Multilingual adaptation for Creative projects
 
 ### 🌱 Currently learning:
-- Advanced front-end tools (Next.js, GSAP, Framer Motion)
-- DaVinci Resolve Studio for video editing
-- Audio for video games & interactive projects
+- Digital Illustration (Photoshop/CSP)
+- DaVinci Resolve Studio for Video Editing
+- Art Direction for Cover Art
 
 ### 💞️ I’m looking to collaborate on:
-- Indie games (visual design, UI, or sound)
+- Indie games (visual design, UI, or narrative content)
 - Web storytelling projects
 - Music videos and horror/sci-fi visuals
 
