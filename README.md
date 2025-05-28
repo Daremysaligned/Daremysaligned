@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/D1l6k7J.png" alt="Mysaligned Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I’m @Daremysaligned 👋</h1>
+<h1 align="center">Hi, I’m @Dmysaligned 👋</h1>
 
 <p align="center">
   🎨 Digital Illustrator • 👾 Graphic Designer • 🎬 Video Editor
