@@ -16,7 +16,7 @@
 - Poster Design for Events/Music Artists
 - Music Production & Multimedia Edition
 - Narrative-driven Visuals and Worldbuilding
-- - Front-end web development (React, Tailwind, animation)
+- Transcription and Multilingual adaptation for Creative projects
 
 ### 🌱 Currently learning:
 - Advanced front-end tools (Next.js, GSAP, Framer Motion)
