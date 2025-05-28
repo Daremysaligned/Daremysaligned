@@ -30,12 +30,14 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 <p align="left">
-  <a href="mailto:mysaligned@gmail.com"><img src="https://img.shields.io/badge/Email-Dare@mysaligned.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://mysaligned.com" target="_blank"><img src="https://img.shields.io/badge/Website-mysaligned.com-black?style=flat&logo=internetexplorer&logoColor=white"/></a>
+  <a href="mailto:mysaligned@gmail.com"><img src="https://img.shields.io/badge/Email-mysaligned@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://mysaligned.carrd.co" target="_blank"><img src="https://img.shields.io/badge/Landing%20Page-mysaligned.carrd.co-ff69b4?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mysaligned/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@mysaligned-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://mysalignedilustraciones.empretienda.com.ar" target="_blank"><img src="https://img.shields.io/badge/Store-Empretienda-green?style=flat&logo=shopify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dareochoa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dare%20Ochoa-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -62,7 +64,8 @@
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Fun Fact
 
-> I blend gothic aesthetics, glitch art, retro games and cinematic vibes to create strange but beautiful things. Everything I make belongs somewhere inside **Nøyre** – my fictional universe full of tragic love, monsters, and forgotten places.
+🎮 I’ve always been fascinated by the storytelling power of video games and the atmosphere of horror cinema — from psychological thrillers to vintage creature features. I live in Buenos Aires, Argentina, where the underground art and music scene constantly feeds my creative spirit.  
+🖤 I’m also the mind behind **Nøyre**, a dark and emotional art/music project that blends sound, visuals, and narrative to build an immersive universe of fear, beauty, and existential mystery.
 
