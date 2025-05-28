@@ -1,6 +1,6 @@
 <!-- Banner image (change URL to your own image) -->
 <p align="center">
-  <img src="https://i.imgur.com/Zm9vVYH.png" alt="Mysaligned Banner" width="100%" />
+  <img src="https://i.imgur.com/cJEOf7Q.png" alt="Mysaligned Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m @Daremysaligned 👋</h1>
