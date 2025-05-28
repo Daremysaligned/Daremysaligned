@@ -1,21 +1,22 @@
 <!-- Banner image (change URL to your own image) -->
 <p align="center">
-  <img src="https://i.imgur.com/cJEOf7Q.png" alt="Mysaligned Banner" width="100%" />
+  <img src="https://i.imgur.com/D1l6k7J.png" alt="Mysaligned Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m @Daremysaligned 👋</h1>
 
 <p align="center">
-  🎨 Freelance Digital Artist • 🎬 Content Editor • 💻 Front-end Developer in progress
+  🎨 Digital Illustrator • 👾 Graphic Designer • 🎬 Video Editor
 </p>
 
 ---
 
 ### 👀 I’m interested in:
-- Front-end web development (React, Tailwind, animation)
-- Digital illustration and concept art
-- Music production & audio editing for multimedia
-- Narrative-driven visuals and worldbuilding
+- Digital illustration & Concept Art
+- Poster Design for Events/Music Artists
+- Music Production & Multimedia Edition
+- Narrative-driven Visuals and Worldbuilding
+- - Front-end web development (React, Tailwind, animation)
 
 ### 🌱 Currently learning:
 - Advanced front-end tools (Next.js, GSAP, Framer Motion)
@@ -32,9 +33,9 @@
 ### 📫 How to reach me:
 
 <p align="left">
-  <a href="mailto:dare@mysaligned.com"><img src="https://img.shields.io/badge/Email-Dare@mysaligned.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mysaligned@gmail.com"><img src="https://img.shields.io/badge/Email-Dare@mysaligned.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://mysaligned.com" target="_blank"><img src="https://img.shields.io/badge/Website-mysaligned.com-black?style=flat&logo=internetexplorer&logoColor=white"/></a>
-  <a href="https://tutienda.empretienda.com.ar/mysaligned" target="_blank"><img src="https://img.shields.io/badge/Store-Empretienda-green?style=flat&logo=shopify&logoColor=white"/></a>
+  <a href="https://mysalignedilustraciones.empretienda.com.ar" target="_blank"><img src="https://img.shields.io/badge/Store-Empretienda-green?style=flat&logo=shopify&logoColor=white"/></a>
 </p>
 
 ---
